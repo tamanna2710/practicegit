@@ -3,8 +3,8 @@ def addition(a, b, c):
 
 # addition(5, 4)
 
-def sub(a, b):
-    return a - b
+def sub(a, b, e):
+    return a - b - e
 
 # sub(5, 4)
 
